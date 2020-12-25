@@ -21,7 +21,7 @@ export default function Header() {
   return (
     <>
       <ElevationScroll>
-        <AppBar position='fixed'>
+        <AppBar position='fixed' color='secondary'>
           <Toolar>Arc Development</Toolar>
         </AppBar>
       </ElevationScroll>
