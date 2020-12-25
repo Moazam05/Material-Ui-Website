@@ -9,6 +9,7 @@ class App extends Component {
       <>
         <ThemeProvider theme={theme}>
           <Header />
+          Hello
         </ThemeProvider>
       </>
     );
